@@ -1,0 +1,16 @@
+https://www.ag-grid.com/angular-data-grid/getting-started/
+
+REFFER THIS SITE 
+
+IN THIS SITE they directly pushed the data 
+
+
+and i have used an api to get the data 
+
+when you down load this file  there will no node modules  so that you have to install 
+" npm i " 
+
+and for installing angular 
+(after installing node )
+
+" npm install -g @angular/cli@16.2.10 " 

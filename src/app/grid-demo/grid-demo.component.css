@@ -1,0 +1,54 @@
+/* Global styles for Ag-Grid */
+.ag-theme-alpine {
+  /* Customize the font */
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+
+  /* Customize the background color and border */
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+/* Styling for header cells */
+.ag-header-cell {
+  /* Customize background color, text color, and border */
+  background-color: #f0f0f0;
+  color: #333;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Styling for header cell text */
+.ag-header-cell-label {
+  /* Customize font weight and padding */
+  font-weight: bold;
+  padding: 8px;
+}
+
+/* Styling for cell data */
+.ag-cell {
+  /* Customize padding and border */
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Alternate row background color */
+.ag-row-even {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect for rows */
+.ag-row-hover {
+  background-color: #f0f0f0;
+}
+
+/* Styling for selected rows */
+.ag-row-selected {
+  background-color: #e0e0e0;
+}
+
+/* Styling for cell editing */
+.ag-cell-editing {
+  /* Customize background color and border */
+  background-color: #ffffcc;
+  border: 1px solid #999;
+}
