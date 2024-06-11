@@ -14,3 +14,18 @@ and for installing angular
 (after installing node )
 
 " npm install -g @angular/cli@16.2.10 " 
+
+
+in this application i have created few components first , secont and third .. that componenets are not necessary .
+
+all the grid-demo is needed
+
+
+and you can install the ag-grid-angular =>
+" npm install ag-grid-angular "
+
+
+you have to import it in module.ts .
+for style grid , i have added in angular.json -> style ->
+" ag-grid-community/styles/ag-grid.css",
+"ag-grid-community/styles/ag-theme-quartz.css"
